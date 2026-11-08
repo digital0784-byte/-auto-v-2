@@ -1,0 +1,6 @@
+{
+  "name": "NUR Property & Auto Marketplace",
+  "description": "የቤት እና የመኪና ኪራይና ሽያጭ መድረክ - Modern Ethiopian marketplace for properties and vehicles with Telegram Mini App support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
